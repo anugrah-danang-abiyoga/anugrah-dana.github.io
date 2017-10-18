@@ -6,3 +6,8 @@ h1 {
   text-align:center;
   font-style:italic
 }
+#header {
+  height:100px;
+  background-color:black;
+  margin-bottom:10px
+}
