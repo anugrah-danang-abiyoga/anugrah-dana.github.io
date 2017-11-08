@@ -3,7 +3,7 @@ body {
 }
 
 /* ===== HERO AND HEADER ===== */
-. section-hero {
+.section-hero {
 background-position: center;
 background-size: 100%;
 background-color: tomato
@@ -12,13 +12,13 @@ padding-bottom: 5em;
 margin-bottom: .5em;
 }
 
-. section-heading {
+.section-heading {
   text-align: center;
   padding: .5em;
   margin: auto;
   color: white;
 }
 
-. container {
+.container {
   width: 100%;
 }
