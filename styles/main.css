@@ -1,18 +1,24 @@
+body {
+  background-position: center;
+}
+
 /* ===== HERO AND HEADER ===== */
 . section-hero {
-  
+background-position: center;
+background-size: 100%;
+background-color: tomato
+padding-top: 5em;
+padding-bottom: 5em;
+margin-bottom: .5em;
 }
 
+. section-heading {
+  text-align: center;
+  padding: .5em;
+  margin: auto;
+  color: white;
+}
 
-body {
-  background:orange;
-  font-family:sans-serif
-}
-h1 {
-  text-align:center;
-  font-style:italic
-}
-#header {
-  background-color:#33ccff;
-  margin-bottom:10px;
+. container {
+  width: 100%;
 }
