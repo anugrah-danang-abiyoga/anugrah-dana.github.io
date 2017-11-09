@@ -33,8 +33,9 @@ margin-bottom: .5em;
 /* ===== BLOG POST IMAGES =====*/
 .row {
   margin-left: 100px;
-  margin-top: 50px;
-  margin-bottom: 50px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-top: 100px;
 }
 
 .section-header {
