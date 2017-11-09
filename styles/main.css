@@ -18,3 +18,9 @@ margin-bottom: .5em;
   margin: auto;
   color: white;
 }
+
+/* ===== FOOTER =====*/
+.section-footer {
+  height: 50px;
+  background-color: tomato;
+}
