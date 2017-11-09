@@ -29,3 +29,10 @@ margin-bottom: .5em;
   margin: auto;
   color: white;
 }
+
+/* ===== BLOG POST IMAGES =====*/
+.columns {
+  margin-left: 100px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
