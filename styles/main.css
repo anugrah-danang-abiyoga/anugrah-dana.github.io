@@ -19,6 +19,13 @@ margin-bottom: .5em;
   color: white;
 }
 
+/* ===== BLOG CONTENT =====*/
+#menu {
+  height: 500px;
+  background-color: white;
+  margin: auto;
+}
+
 /* ===== FOOTER =====*/
 .section-footer {
   height: 100px;
