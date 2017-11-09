@@ -36,3 +36,12 @@ margin-bottom: .5em;
   margin-top: 50px;
   margin-bottom: 50px;
 }
+
+.section-header {
+  background-position: center;
+  background-size: 80%;
+  background color: tomato;
+  padding-top: 5em;
+  padding-bottom: 5em;
+  margin-bottom: .5em;
+}
