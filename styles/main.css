@@ -35,6 +35,13 @@ margin-bottom: .5em;
   height: 200px;
 }
 
+#head-blog {
+  height: 250px;
+  background-position: center;
+  background-color: tomato;
+  margin: auto;
+}
+
 /* ===== FOOTER =====*/
 .section-footer {
   height: 100px;
