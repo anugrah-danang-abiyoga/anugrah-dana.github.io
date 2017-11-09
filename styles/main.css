@@ -39,9 +39,16 @@ margin-bottom: .5em;
 
 .section-header {
   background-position: center;
-  background-size: 80%;
-  background color: tomato;
+  background-size: 100%;
+  background color: red;
   padding-top: 5em;
   padding-bottom: 5em;
   margin-bottom: .5em;
+}
+
+.section-headtext {
+  text-align: center;
+  margin: auto;
+  padding: .5em;
+  color: black;
 }
