@@ -59,9 +59,8 @@ margin-bottom: .5em;
   background-position: center;
   background-size: 40%;
   background-color: tomato;
-  padding-top: 5em;
-  padding-bottom: 5em;
-  margin-bottom: .5em;
+  width: 100;
+  height: 100;
 }
 
 .section-heading h3 {
