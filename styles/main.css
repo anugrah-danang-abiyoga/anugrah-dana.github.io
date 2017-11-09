@@ -36,10 +36,15 @@ margin-bottom: .5em;
 }
 
 #head-blog {
-  height: 250px;
+  height: 200px;
   background-position: center;
   background-color: tomato;
   margin: auto;
+}
+
+.section-headtext {
+  text-align: center;
+  color: white;
 }
 
 /* ===== FOOTER =====*/
