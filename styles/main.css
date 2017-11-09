@@ -56,13 +56,13 @@ margin-bottom: .5em;
 /* ===== FOOTER =====*/
 .section-footer {
   background-position: center;
-  background-size: 70%;
+  background-size: 100%;
   background-color: tomato;
   position: relative;
-  padding-top: 5em;
+  padding-top: 2em;
   padding-bottom: 2em;
-  width: 70%;
-  height: 70%;
+  width: 100%;
+  height: 100%;
 }
 
 .section-heading h3 {
