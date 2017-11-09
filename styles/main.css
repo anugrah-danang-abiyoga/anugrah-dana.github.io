@@ -63,3 +63,7 @@ margin-bottom: .5em;
   width: 70%;
   height: 70%;
 }
+
+.section-heading h3 {
+  text-align: right;
+}
