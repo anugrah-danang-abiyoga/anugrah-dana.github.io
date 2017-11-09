@@ -30,6 +30,11 @@ margin-bottom: .5em;
   margin: auto;
 }
 
+.button-primary {
+  width: 90px;
+  height: 40px;
+}
+
 /* ===== FOOTER =====*/
 .section-footer {
   height: 100px;
