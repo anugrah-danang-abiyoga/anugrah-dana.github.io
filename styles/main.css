@@ -52,3 +52,14 @@ margin-bottom: .5em;
   padding: .5em;
   color: black;
 }
+
+/* ===== FOOTER =====*/
+.section-footer {
+  background-position: center;
+  background-size: 70%;
+  position: relative;
+  padding-top: 5em;
+  padding-bottom: 2em;
+  width: 70%;
+  height: 70%;
+}
