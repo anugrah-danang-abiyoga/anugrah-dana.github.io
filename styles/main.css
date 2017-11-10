@@ -19,6 +19,10 @@ margin-bottom: .5em;
   color: white;
 }
 
+.section-description {
+  text-align: center;
+}
+
 /* ===== BLOG CONTENT =====*/
 #menu {
   height: 500px;
