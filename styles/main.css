@@ -33,6 +33,7 @@ margin-bottom: .5em;
 .button-primary {
   width: 250px;
   height: 200px;
+  border-radius: 50%;
 }
 
 #head-blog {
